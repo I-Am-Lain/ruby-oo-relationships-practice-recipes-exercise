@@ -16,3 +16,4 @@ class RecipeCard
     end
 
 end
+
